@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Caftan Alg\u00e9rien Traditionnel",
+        "price": 12500,
+        "original_price": 15000,
+        "image": "https:\/\/images.unsplash.com\/photo-1595777457583-95e059d581b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "category": "caftan",
+        "description": "Caftan traditionnel alg\u00e9rien en soie naturelle, broderie artisanale",
+        "stock": 15,
+        "tags": [
+            "traditionnel",
+            "soie",
+            "broderie"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Jebba Masculine",
+        "price": 8900,
+        "original_price": 11000,
+        "image": "https:\/\/images.unsplash.com\/photo-1552374196-1ab2a1c593e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "category": "traditionnel",
+        "description": "Jebba masculine en coton premium, confort et \u00e9l\u00e9gance",
+        "stock": 20,
+        "tags": [
+            "masculin",
+            "coton",
+            "traditionnel"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ha\u00efk Alg\u00e9rois",
+        "price": 7500,
+        "original_price": 9000,
+        "image": "https:\/\/images.unsplash.com\/photo-1585487000111-7e5c0f8eede7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "category": "accessoires",
+        "description": "Ha\u00efk traditionnel d'Alger, tissu l\u00e9ger et raffin\u00e9",
+        "stock": 25,
+        "tags": [
+            "traditionnel",
+            "alg\u00e9rois",
+            "l\u00e9ger"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Burnous en Laine",
+        "price": 18500,
+        "original_price": 22000,
+        "image": "https:\/\/images.unsplash.com\/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "category": "burnous",
+        "description": "Burnous en laine pure, fabrication artisanale du Sud",
+        "stock": 8,
+        "tags": [
+            "laine",
+            "artisanal",
+            "sud"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Robe Kabyle Moderne",
+        "price": 9800,
+        "original_price": 12000,
+        "image": "https:\/\/images.unsplash.com\/photo-1595777457583-95e059d581b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "category": "robe",
+        "description": "Robe inspir\u00e9e de la culture kabyle, design contemporain",
+        "stock": 18,
+        "tags": [
+            "kabyle",
+            "moderne",
+            "color\u00e9"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Gandoura Estivale",
+        "price": 6800,
+        "original_price": 8500,
+        "image": "https:\/\/images.unsplash.com\/photo-1509631179647-0177331693ae?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "category": "gandoura",
+        "description": "Gandoura l\u00e9g\u00e8re pour l'\u00e9t\u00e9, tissu respirant",
+        "stock": 30,
+        "tags": [
+            "\u00e9t\u00e9",
+            "l\u00e9ger",
+            "confortable"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Serouel Tlemcen",
+        "price": 11200,
+        "original_price": 13500,
+        "image": "https:\/\/images.unsplash.com\/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "category": "pantalon",
+        "description": "Serouel traditionnel de Tlemcen, coupe \u00e9l\u00e9gante",
+        "stock": 12,
+        "tags": [
+            "tlemcen",
+            "traditionnel",
+            "\u00e9l\u00e9gant"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Foulard en Soie",
+        "price": 3500,
+        "original_price": 4500,
+        "image": "https:\/\/images.unsplash.com\/photo-1548036328-c9fa89d128fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "category": "accessoires",
+        "description": "Foulard en soie naturelle, motifs alg\u00e9riens",
+        "stock": 40,
+        "tags": [
+            "soie",
+            "foulard",
+            "accessoire"
+        ]
+    }
+]

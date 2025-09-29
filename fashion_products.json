@@ -1,0 +1,386 @@
+[
+    {
+        "id": 1,
+        "name": "Robe de Soir\u00e9e Sultana",
+        "price": 18900,
+        "original_price": 22500,
+        "image": "https:\/\/images.unsplash.com\/photo-1595777457583-95e059d581b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "robes",
+        "subcategory": "soiree",
+        "description": "Robe de soir\u00e9e \u00e9l\u00e9gante en satin avec broderies dor\u00e9es. Coupe princesse qui met en valeur la silhouette.",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Noir",
+            "Bordeaux",
+            "\u00c9meraude",
+            "Saphir"
+        ],
+        "in_stock": true,
+        "featured": true,
+        "tags": [
+            "nouveau",
+            "tendance",
+            "luxe"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Robe Caftan Imp\u00e9rial",
+        "price": 15600,
+        "original_price": 18900,
+        "image": "https:\/\/images.unsplash.com\/photo-1585487000113-7007d14a9e4d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "robes",
+        "subcategory": "caftan",
+        "description": "Caftan traditionnel r\u00e9invent\u00e9 avec des motifs orientaux modernes. Manches \u00e9vas\u00e9es et ceinture brod\u00e9e.",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Or",
+            "Argent",
+            "Rubis",
+            "\u00c9meraude"
+        ],
+        "in_stock": true,
+        "featured": true,
+        "tags": [
+            "traditionnel",
+            "\u00e9l\u00e9gant"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Hijab Soie Lumi\u00e8re",
+        "price": 4500,
+        "original_price": 5800,
+        "image": "https:\/\/images.unsplash.com\/photo-1581044777550-4cfa60707c03?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "hijabes",
+        "subcategory": "soie",
+        "description": "Hijab en soie naturelle ultra-l\u00e9ger. Ne glisse pas et offre un confort exceptionnel toute la journ\u00e9e.",
+        "sizes": [
+            "Unique"
+        ],
+        "colors": [
+            "Nude",
+            "Blanc nacr\u00e9",
+            "Rose poudr\u00e9",
+            "Bleu ciel",
+            "Menthe"
+        ],
+        "in_stock": true,
+        "featured": true,
+        "tags": [
+            "nouveau",
+            "confort"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Hijab Cr\u00eape Premium",
+        "price": 3200,
+        "original_price": 4200,
+        "image": "https:\/\/images.unsplash.com\/photo-1496747611176-843222e1e57c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "hijabes",
+        "subcategory": "crepe",
+        "description": "Hijab en cr\u00eape de qualit\u00e9 sup\u00e9rieure avec finition mate. Parfait pour un style moderne et \u00e9pur\u00e9.",
+        "sizes": [
+            "Unique"
+        ],
+        "colors": [
+            "Noir",
+            "Marron",
+            "Bordeaux",
+            "Kaki",
+            "Gris ardoise"
+        ],
+        "in_stock": true,
+        "featured": false,
+        "tags": [
+            "moderne",
+            "essentiel"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Ensemble Princesse",
+        "price": 23400,
+        "original_price": 27800,
+        "image": "https:\/\/images.unsplash.com\/photo-1572804013309-59a88b7e92f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "ensembles",
+        "subcategory": "premium",
+        "description": "Ensemble 2 pi\u00e8ces comprenant une robe et un hijab coordonn\u00e9. Broderies artisanales et tissu premium.",
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Or et Blanc",
+            "Argent et Noir",
+            "Rose et Or"
+        ],
+        "in_stock": true,
+        "featured": true,
+        "tags": [
+            "complet",
+            "luxe",
+            "nouveau"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Ensemble Urban Chic",
+        "price": 16700,
+        "original_price": 19500,
+        "image": "https:\/\/images.unsplash.com\/photo-1445205170230-053b83016050?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "ensembles",
+        "subcategory": "urban",
+        "description": "Ensemble moderne pour la femme active. \u00c9l\u00e9gant et confortable pour toutes les occasions.",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Noir",
+            "Taupe",
+            "Bleu nuit",
+            "Bordeaux"
+        ],
+        "in_stock": true,
+        "featured": false,
+        "tags": [
+            "moderne",
+            "urbain"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Jupe Longue Volante",
+        "price": 8900,
+        "original_price": 11200,
+        "image": "https:\/\/images.unsplash.com\/photo-1594633312681-425c7b97ccd1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "jupes",
+        "subcategory": "longue",
+        "description": "Jupe longue fluide avec effet volant. Mouvement gracieux et coupe flatteuse.",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Noir",
+            "Bordeaux",
+            "\u00c9meraude",
+            "Bleu royal"
+        ],
+        "in_stock": true,
+        "featured": true,
+        "tags": [
+            "fluide",
+            "\u00e9l\u00e9gant"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Jupe Crayon Moderne",
+        "price": 6700,
+        "original_price": 8500,
+        "image": "https:\/\/images.unsplash.com\/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "jupes",
+        "subcategory": "crayon",
+        "description": "Jupe crayon qui sublime la silhouette. Tissu stretch pour un confort optimal.",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Noir",
+            "Gris",
+            "Marron",
+            "Bleu marine"
+        ],
+        "in_stock": true,
+        "featured": false,
+        "tags": [
+            "moderne",
+            "travail"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Blouse Soie \u00c9l\u00e9gante",
+        "price": 7800,
+        "original_price": 9500,
+        "image": "https:\/\/images.unsplash.com\/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "hauts",
+        "subcategory": "blouses",
+        "description": "Blouse en soie naturelle avec col volant. \u00c9l\u00e9gante et raffin\u00e9e pour toutes occasions.",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Blanc",
+            "Noir",
+            "Ivoire",
+            "Rose p\u00e2le"
+        ],
+        "in_stock": true,
+        "featured": true,
+        "tags": [
+            "soie",
+            "\u00e9l\u00e9gant"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Top Broderie Orientale",
+        "price": 5600,
+        "original_price": 7200,
+        "image": "https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "hauts",
+        "subcategory": "tops",
+        "description": "Top avec broderies orientales d\u00e9taill\u00e9es. Manches ballon et encolure carr\u00e9e.",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Blanc",
+            "Noir",
+            "Rouge",
+            "Bleu"
+        ],
+        "in_stock": true,
+        "featured": false,
+        "tags": [
+            "broderie",
+            "oriental"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Pantalon Palazzo Luxe",
+        "price": 11200,
+        "original_price": 13500,
+        "image": "https:\/\/images.unsplash.com\/photo-1582418702059-97ebafb35d09?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "pantalons",
+        "subcategory": "palazzo",
+        "description": "Pantalon palazzo fluide en satin. Coupe large et \u00e9l\u00e9gante pour un style sophistiqu\u00e9.",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Noir",
+            "Bordeaux",
+            "\u00c9meraude",
+            "Bleu nuit"
+        ],
+        "in_stock": true,
+        "featured": true,
+        "tags": [
+            "fluide",
+            "luxe"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Pantalon Taille Haute",
+        "price": 8900,
+        "original_price": 10800,
+        "image": "https:\/\/images.unsplash.com\/photo-1475180098004-ca77a66827be?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "pantalons",
+        "subcategory": "taille-haute",
+        "description": "Pantalon taille haute qui affine la silhouette. Tissu stretch premium.",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Noir",
+            "Gris",
+            "Beige",
+            "Marron"
+        ],
+        "in_stock": true,
+        "featured": false,
+        "tags": [
+            "taille-haute",
+            "stretch"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Foulard Soie Artistique",
+        "price": 3400,
+        "original_price": 4500,
+        "image": "https:\/\/images.unsplash.com\/photo-1548036328-c9fa89d128fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "foulards",
+        "subcategory": "soie",
+        "description": "Foulard en soie avec impression artistique exclusive. Finitions main.",
+        "sizes": [
+            "Unique"
+        ],
+        "colors": [
+            "Multicolor",
+            "Bleu et Or",
+            "Rose et Argent"
+        ],
+        "in_stock": true,
+        "featured": true,
+        "tags": [
+            "soie",
+            "artistique"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Foulard Mousseline",
+        "price": 2800,
+        "original_price": 3600,
+        "image": "https:\/\/images.unsplash.com\/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "foulards",
+        "subcategory": "mousseline",
+        "description": "Foulard en mousseline ultra-l\u00e9g\u00e8re. Parfait pour accessoiriser toutes les tenues.",
+        "sizes": [
+            "Unique"
+        ],
+        "colors": [
+            "Blanc",
+            "Noir",
+            "Rouge",
+            "Bleu",
+            "Vert"
+        ],
+        "in_stock": true,
+        "featured": false,
+        "tags": [
+            "l\u00e9ger",
+            "polyvalent"
+        ]
+    }
+]

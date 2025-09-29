@@ -1,0 +1,44 @@
+[
+    {
+        "id": "robes",
+        "name": "Robes",
+        "image": "https:\/\/images.unsplash.com\/photo-1595777457583-95e059d581b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "description": "Robes \u00e9l\u00e9gantes pour toutes occasions"
+    },
+    {
+        "id": "hijabes",
+        "name": "Hijabes",
+        "image": "https:\/\/images.unsplash.com\/photo-1581044777550-4cfa60707c03?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "description": "Hijabes de qualit\u00e9 en soie et cr\u00eape"
+    },
+    {
+        "id": "ensembles",
+        "name": "Ensembles",
+        "image": "https:\/\/images.unsplash.com\/photo-1572804013309-59a88b7e92f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "description": "Ensembles coordonn\u00e9s parfaits"
+    },
+    {
+        "id": "jupes",
+        "name": "Jupes",
+        "image": "https:\/\/images.unsplash.com\/photo-1594633312681-425c7b97ccd1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "description": "Jupes longues et crayon \u00e9l\u00e9gantes"
+    },
+    {
+        "id": "hauts",
+        "name": "Hauts",
+        "image": "https:\/\/images.unsplash.com\/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "description": "Blouses et tops raffin\u00e9s"
+    },
+    {
+        "id": "pantalons",
+        "name": "Pantalons",
+        "image": "https:\/\/images.unsplash.com\/photo-1582418702059-97ebafb35d09?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "description": "Pantalons \u00e9l\u00e9gants et confortables"
+    },
+    {
+        "id": "foulards",
+        "name": "Foulards",
+        "image": "https:\/\/images.unsplash.com\/photo-1548036328-c9fa89d128fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "description": "Foulards en soie et mousseline"
+    }
+]

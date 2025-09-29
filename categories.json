@@ -1,0 +1,37 @@
+[
+    {
+        "id": "caftans",
+        "name": "Caftans",
+        "image": "https:\/\/images.unsplash.com\/photo-1595777457583-95e059d581b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": "djellabas",
+        "name": "Djellabas",
+        "image": "https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": "robes",
+        "name": "Robes",
+        "image": "https:\/\/images.unsplash.com\/photo-1581044777550-4cfa60707c03?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": "gandouras",
+        "name": "Gandouras",
+        "image": "https:\/\/images.unsplash.com\/photo-1572804013309-59a88b7e92f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": "burnous",
+        "name": "Burnous",
+        "image": "https:\/\/images.unsplash.com\/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": "pantalons",
+        "name": "Pantalons",
+        "image": "https:\/\/images.unsplash.com\/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": "accessoires",
+        "name": "Accessoires",
+        "image": "https:\/\/images.unsplash.com\/photo-1445205170230-053b83016050?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    }
+]
