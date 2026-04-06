@@ -32,3 +32,9 @@ Ce projet permet de vendre des vêtements (robes, hijabs, ensembles, jupes, foul
 ### 🏠 Page d’accueil
 ![Accueil](assets/images/screenshosts/minafashion.jpeg)
 
+### Le panier
+![Panier](assets/images/screenshosts/panier.png)
+
+### System Admin
+![Admin](assets/images/screenshosts/admin.png)
+
