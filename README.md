@@ -7,18 +7,14 @@ Ce projet permet de vendre des vêtements (robes, hijabs, ensembles, jupes, foul
 
 ## 🚀 Fonctionnalités
 - Page d’accueil avec présentation des produits
-- Catalogue de produits
-- Page contact
-- Interface d’administration (ajout / modification produits)
+- pages des boutiques
+- Systeme de panier
+- Interface d’administration (ajout / modification produits/commandes)
+
 
 
 ---
 
-## 🛠️ Installation
-1. Cloner le projet :
-   ```bash
-   git clone https://github.com/MouniraKAHLERRAS/boutique--en-ligne.git
-   cd boutique--en-ligne
 ## 📸 Captures d’écran
 
 ### 🏠 Page d’accueil
