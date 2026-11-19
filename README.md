@@ -11,30 +11,27 @@ Ce projet permet de vendre des vêtements (robes, hijabs, ensembles, jupes, foul
 - Page contact
 - Interface d’administration (ajout / modification produits)
 
----
-
-## 📂 Structure du projet
-- `index.php` → Page d’accueil
-- `produits.php` → Liste des produits
-- `assets/` → Fichiers CSS, JS, images
-- `config/` → Connexion base MySQL
-- `database.sql` → Script de la base de données
 
 ---
 
 ## 🛠️ Installation
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/MouniraKAHLERRAS/boutique-en-ligne.git
-   cd boutique-en-ligne
+   git clone https://github.com/MouniraKAHLERRAS/boutique--en-ligne.git
+   cd boutique--en-ligne
 ## 📸 Captures d’écran
 
 ### 🏠 Page d’accueil
-![Accueil](assets/images/screenshosts/minafashion.jpeg)
+![Accueil](assets/screenshosts/minafashion.jpeg)
 
 ### Le panier
 ![Panier](assets/images/screenshosts/panier.jpeg)
 
+<<<<<<< HEAD
 ### System Admin
 ![Admin](assets/images/screenshosts/admin.jpeg)
+=======
+### 🏠 Page d’accueil
+![Accueil](https://raw.githubusercontent.com/MouniraKAHLERRAS/boutique--en-ligne-screenshots/main/minafashion.jpeg)
+>>>>>>> 7f2234f (Organiser les fichiers JSON dans views)
 
