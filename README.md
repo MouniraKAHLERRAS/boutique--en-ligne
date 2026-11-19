@@ -31,7 +31,4 @@ Ce projet permet de vendre des vêtements (robes, hijabs, ensembles, jupes, foul
 ### System Admin
 ![Admin](assets/screenshosts/admin.jpeg)
 =======
-### 🏠 Page d’accueil
-![Accueil](https://raw.githubusercontent.com/MouniraKAHLERRAS/boutique--en-ligne-screenshots/main/minafashion.jpeg)
->>>>>>> 7f2234f (Organiser les fichiers JSON dans views)
 
